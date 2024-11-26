@@ -5,3 +5,4 @@
 - 30 days PHP challenge.
 
 * day 1. Laravel app. App name is: CV generator
+* day 2. Project configuration
